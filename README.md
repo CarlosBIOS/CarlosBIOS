@@ -14,10 +14,9 @@
 With a deep passion for **AI-driven technologies** and **data analyst**. I specialize in turning complex challenges into scalable, innovative solutions.
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 Mathematics 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒dade do Minho
-- 🌱 I’m currently learning Tensorflow
-- 📫 How to reach me: cmmonteiro40@gmail.com
+- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 Mathematics 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒dade do Minho and I'm going to start a postgraduate course on Enterprise Data Science and Analytics at NovaIMS
 - [📄 O meu CV](https://github.com/CarlosBIOS/CarlosBIOS/blob/main/Carlos_Monteiro_EN.pdf)
+- 📫 How to reach me: cmmonteiro40@gmail.com
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+your+attention!;" />
