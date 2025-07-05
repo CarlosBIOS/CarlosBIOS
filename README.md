@@ -15,7 +15,6 @@ With a deep passion for **AI-driven technologies** and **data analyst**. I speci
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 Bachelor's Mathematics from the Univers𝚒dade do Minho and Universidad de Granada and I'm going to start a postgraduate course on Enterprise Data Science and Analytics at NovaIMS
-- [📄 My CV](https://github.com/CarlosBIOS/CarlosBIOS/blob/main/Carlos_Monteiro_EN.pdf)
 - 📫 How to reach me: cmmonteiro40@gmail.com
 
 <h1 align="center">
