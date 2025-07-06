@@ -45,7 +45,6 @@ I believe in turning complexity into clarity and data into decisions.
 ## 📫 Let’s Connect  
 📧 cmmonteiro40@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/carlos-miguel-monteiro)  
-🐙 [GitHub](https://github.com/CarlosBIOS)
 
 ---
 
