@@ -4,15 +4,6 @@
 
 <h2 align="center"><i>Data Whisperer. AI Explorer. Architect of Smart Solutions.</i></h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB"/>
-  <img src="https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=tensorflow&color=FF6F00"/>
-  <img src="https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&color=150458"/>
-  <img src="https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20"/>
-  <img src="https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&color=000000"/>
-  <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&color=4479A1"/>
-</p>
-
 ---
 
 ## 🧠 About Me  
