@@ -4,8 +4,6 @@
 
 <h2 align="center"><i>Data Whisperer. AI Explorer. Architect of Smart Solutions.</i></h2>
 
----
-
 ## 🧠 About Me  
 I'm **Carlos Monteiro**, a data science and analytics/ Machine Learning Engineer enthusiast blending mathematics, code, and creativity.  
 With a Bachelor's in Mathematics from Universidade do Minho and Universidad de Granada (Erasmus), I’m now diving deeper into enterprise-level analytics through a postgraduate course at **NOVA IMS** (The first semester grade: 17/20).
